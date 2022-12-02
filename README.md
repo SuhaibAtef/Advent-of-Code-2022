@@ -7,6 +7,8 @@
 These are my [Advent of Code][AoC] (AoC) puzzle solutions.
 
 I'm solved the puzzles using C++ on [CS Academy](https://csacademy.com/workspace/) / VScode using [Mingw](Mingw-Builds) 
+
+
 My aim is just to have fun coding and to share my solutions with my friends:
 1. [Omar Al-Zoubi](https://github.com/OmarAlzoubi)  
 2. [Jafar Juneidi](https://github.com/JafarJuneidi)
